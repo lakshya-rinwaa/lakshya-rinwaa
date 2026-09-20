@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi, I'm Lakshya Rinwa</h1>
 
 <h3 align="center">
-  Aspiring Software Engineer • AI & Data Science • Full Stack Development • C++ • Python
+  Aspiring Software Engineer • AI & Data Science • Full Stack Learner • C++ • Python, SQL
 </h3>
 
 <p align="center">
@@ -88,26 +88,33 @@
 ### 💻 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,c" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
 </p>
 
 ### 🌐 Web Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs" />
 </p>
 
 ### 🗄️ Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
 </p>
 
 ### ⚙️ Tools & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
+
+### 🤖 AI Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=openai" />
+</p>
+
 
 ---
 
