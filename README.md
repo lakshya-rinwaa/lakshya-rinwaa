@@ -1,38 +1,132 @@
 <h1 align="center">Hi 👋, I'm Lakshya Rinwa</h1>
-<h3 align="center">B.Tech in Artificial Intelligence and Data Science | C++, Python, SQL | Full Stack & AI Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshya-rinwaa&label=Profile%20views&color=0e75b6&style=flat" alt="lakshya-rinwaa" /> </p>
+<h3 align="center">
+Aspiring Software Engineer • AI & Data Science • C++ • Python • Full Stack Development
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshya-rinwaa" alt="lakshya-rinwaa" /></a> </p>
-
-- 🔭 I’m currently working on **Web Dev & AI Projects**
-
-- 🌱 I’m currently learning **DSA, AI Tools & Backend Development**
-
-- 👯 I’m looking to collaborate on **Open Source Web Apps**
-
-- 🤝 I’m looking for help with **Cloud Deployment & UI/UX Design**
-
-- 💬 Ask me about **C++, Python, and SQL Databases**
-
-- 📫 How to reach me **lakshya.rinwaa@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ckIbX7J4Xc0cAmtPR14hAgnLZMAqTvUm/view?usp=sharing](https://drive.google.com/file/d/1ckIbX7J4Xc0cAmtPR14hAgnLZMAqTvUm/view?usp=sharing)
-
-- ⚡ Fun fact **I can spend hours playing chess, watching movies, and still somehow say “one more episode.” 🎬♟️**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lakshya-rinwaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshya-rinwaa" height="30" width="40" /></a>
-<a href="https://instagram.com/lakshya.sharmaa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lakshya.sharmaa_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lakshyarinwa2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lakshyarinwa2004" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/lakshya-rinwaa">
+    <img src="https://komarev.com/ghpvc/?username=lakshya-rinwaa&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/lakshya-rinwaa?tab=followers">
+    <img src="https://img.shields.io/github/followers/lakshya-rinwaa?label=Followers&style=flat" alt="GitHub Followers"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshya-rinwaa&show_icons=true&locale=en&layout=compact" alt="lakshya-rinwaa" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshya-rinwaa&show_icons=true&locale=en" alt="lakshya-rinwaa" /></p>
+```text
+🎓 B.Tech in Artificial Intelligence & Data Science
+💻 Passionate about Software Development, AI & Backend Systems
+🧠 Currently strengthening DSA with C++
+🌱 Learning Backend Development & AI Tools
+🔨 Building Web Development & AI Projects
+🤝 Interested in Open Source & Collaborative Projects
+♟️ Chess + Movies + Tech = My kind of free time
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshya-rinwaa&" alt="lakshya-rinwaa" /></p>
+* 🔭 Currently working on **Web Development & AI Projects**
+* 🌱 Currently learning **DSA, AI Tools & Backend Development**
+* 👯 Looking to collaborate on **Open Source Web Apps**
+* 💬 Ask me about **C++, Python, SQL & Databases**
+* 📫 Reach me at **[lakshya.rinwaa@gmail.com](mailto:lakshya.rinwaa@gmail.com)**
+* ⚡ Fun fact: **I can spend hours playing chess, watching movies, and still somehow say “one more episode.” 🎬♟️**
+
+---
+
+## 🧑‍💻 Tech Stack
+
+### 💻 Languages
+
+<p align="left">
+<a href="https://isocpp.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+</a>
+<a href="https://www.python.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+</a>
+<a href="https://www.javascript.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+</a>
+<a href="https://www.w3.org/html/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
+</a>
+<a href="https://www.w3.org/Style/CSS/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
+</a>
+</p>
+
+### 🌐 Web & Backend
+
+<p align="left">
+<a href="https://nodejs.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/>
+</a>
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/>
+</a>
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
+</a>
+<a href="https://www.postgresql.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" alt="PostgreSQL"/>
+</a>
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p align="left">
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+</a>
+<a href="https://www.linux.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
+</a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lakshya-rinwaa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="Lakshya's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshya-rinwaa&layout=compact&langs_count=8&hide_border=true" alt="Lakshya's Top Languages"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=lakshya-rinwaa&hide_border=true" alt="Lakshya's GitHub Streak"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshya-rinwaa&hide_border=true&area=true" alt="Lakshya's Contribution Graph"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lakshya-rinwaa&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 📌 GitHub Overview
+
+<p align="center">
+
+<img src="https://img.shields.io/github/stars/lakshya-rinwaa?style=for-the-badge&label=TOTAL%20STARS" alt="Total Stars"/>
+
+<img src="https://img.shields.io/github/followers/lakshya-rinwaa?style=for-the-badge&label=FOLLOWERS" alt="Followers"/>
+
+<i
