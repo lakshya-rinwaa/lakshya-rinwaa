@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lakshya Rinwa</h1>
-<h3 align="center">🚀 AI & DS Student | C++, C, Python| Full-Stack Learner | Exploring DSA, AI/ML, Dev-ops/Cloud |</h3>
+<h3 align="center">🚀 AI & DS Student | C++, C, Python | Full-Stack Learner | Exploring DSA, AI/ML, Dev-ops/Cloud |</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshya-rinwaa&label=Profile%20views&color=0e75b6&style=flat" alt="lakshya-rinwaa" /> </p>
 
