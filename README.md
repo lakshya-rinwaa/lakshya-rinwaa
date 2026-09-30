@@ -33,17 +33,11 @@
       <p align="center">
         AI-based health monitoring system using computer vision for detecting stress, fatigue and posture anomalies.
       </p>
-      <p align="center">
-        <b>React.js • Flask • OpenCV • OpenAI API • MongoDB</b>
-      </p>
     </td>
     <td width="50%">
       <h3 align="center">🚆 Track-Guard</h3>
       <p align="center">
         Edge AI railway-track monitoring solution using computer vision and real-time detection.
-      </p>
-      <p align="center">
-        <b>Python • YOLOv8 • OpenCV • Raspberry Pi • AWS IoT</b>
       </p>
     </td>
   </tr>
@@ -53,17 +47,11 @@
       <p align="center">
         Multi-threaded client-server chat system focused on socket programming and backend communication.
       </p>
-      <p align="center">
-        <b>C++ • Socket Programming • React.js • Database</b>
-      </p>
     </td>
     <td width="50%">
       <h3 align="center">🏆 SIH 2025</h3>
       <p align="center">
         Team leader of the winning team at JECRC in Smart India Hackathon 2025 prelims.
-      </p>
-      <p align="center">
-        <b>Winner • Team Traksha • 1st among 515 teams</b>
       </p>
     </td>
   </tr>
