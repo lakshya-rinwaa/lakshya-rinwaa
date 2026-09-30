@@ -15,7 +15,7 @@
 ### 👨‍💻 About Me
 
 * 🎓 B.Tech in **Artificial Intelligence & Data Science** | 2023–2027
-* 🧠 Strong interest in **DSA, backend systems and software architecture**
+* 🧠 Good knowledge in **DSA, backend systems and software architecture**
 * 🌱 Currently learning **Full-Stack Development, Cloud, DevOps and AI Tools**
 * 🤖 Building projects around **AI, computer vision and real-world automation**
 * 💬 Ask me about **C, C++, Python, SQL, Web Development and AI Projects**
@@ -152,8 +152,7 @@
 
 * 🥇 **SIH 2025 Winner** — 1st position among 515 teams at JECRC Foundation
 * 🚀 Participated in multiple national-level hackathons
-* 🏑 **State Hockey Player — Under-17**
-* 💻 Strong foundation in **DSA and Core Computer Science**
+* 💻 Good knowledge in **DSA and Core Computer Science**
 * 🤖 Experience building **AI-powered real-world projects**
 
 ---
